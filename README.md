@@ -4,9 +4,8 @@
 Smith DRM<sup>1,2,3</sup>, Jijón S<sup>1,4,</sup>*, Oodally A<sup>1,2,3,</sup>*,  Shirreff G<sup>1,2,3,</sup>*, Aït Bouziad K<sup>1</sup>, Ante Testard P<sup>1</sup>, Bastard J<sup>1,2,3,4,5</sup>, Bouziri H<sup>1</sup>, Salama Daouda O<sup>1</sup>, Duchemin T<sup>1</sup>, Godon-Rensonnet AS<sup>1</sup>, Henriot P<sup>1,4</sup>, Houri Y<sup>1</sup>, Neynaud H<sup>1</sup>, Perozziello A<sup>1</sup>, Thonon F<sup>1</sup>, Crépey P<sup>6</sup>, Dab W<sup>1</sup>, Jean K<sup>1,4,7</sup>, Temime L<sup>1,4</sup>
 </font>
 
-</br>
+<br>
 
-<font size="-4">
 <sup>1</sup> Laboratoire MESuRS, Conservatoire national des Arts et Métiers, Paris, France
 
 <sup>2</sup> Institut Pasteur, Epidemiology and Modelling of Antibiotic Evasion (EMAE), Paris, France
@@ -22,7 +21,6 @@ Smith DRM<sup>1,2,3</sup>, Jijón S<sup>1,4,</sup>*, Oodally A<sup>1,2,3,</sup>*
 <sup>7</sup>MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, Imperial College London, United Kingdom
 
 <sup>*</sup>These authors contributed equally
-</font>
 
 </br>
 
@@ -47,11 +45,11 @@ Covid-sick-leave
 
 ````
 - The main R files:
-    - **COVID19-sick-leaves_analysis.R**
+    - `COVID19-sick-leaves_analysis.R`
     <br> The main script where the analyses are conducted.
-    - **COVID19-sick-leaves_figures.R**
+    - `COVID19-sick-leaves_figures.R`
     <br> Reproduces the figures in the manuscript.
-    - **covid_absence.Rproj**
+    - `covid_absence.Rproj`
     <br> The R project.
 - **Data**
 <br> This folder contains the files regarding data on:
