@@ -59,7 +59,7 @@ Covid-sick-leave
     - Symptomatic incidence
     - Probability of having a close contact by age and by region
 
-<br> Of note, data concerning close contacts was a personal communication and thus we do not have the permission to share.
+<br> Of note, Socialcov data (the social contact survey) were shared via personal communication and thus we do not have the permission to share.
 - **Plots**
 <br> This folder contains the figures of the main text and and the Supplementary material.
 - **Plots_extras**
