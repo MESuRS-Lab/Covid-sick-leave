@@ -19,12 +19,18 @@ preferred-citation:
   - family-names: "Smith"
     given-names: "DRM"
     orcid: "https://orcid.org/0000-0002-7330-4262"
+  - family-names: "Jijón"
+    given-names: "S"
+    orcid: "https://orcid.org/0000-0002-1292-0512"
+  - family-names: "Oodally"
+    given-names: "A"
+  - name: "et al."
   doi: "10.1136/oemed-2022-108451"
   journal: "Occupational and Environmental Medicine"
-  month: 3
+  # month: 3
   # start: 1 # First page number
   # end: 10 # Last page number
   title: "Sick leave due to COVID-19 during the first pandemic wave in France, 2020"
   # issue: 1
   volume: "Published Online First: 13 March 2023"
-  year: 2023
+  # year: 2023
