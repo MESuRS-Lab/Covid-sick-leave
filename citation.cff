@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "This code allows to reproduce the results from our short report. Please cite as follows:"
+title: "Covid-sick-leave"
+repository-code: "https://github.com/MESuRS-Lab/Covid-sick-leave"
+date-released: 2023-03-13
+authors:
+- family-names: "Smith"
+  given-names: "DRM"
+  orcid: "https://orcid.org/0000-0002-7330-4262"
+- family-names: "Jijón"
+  given-names: "S"
+  orcid: "https://orcid.org/0000-0002-1292-0512"
+- family-names: "Oodally"
+  given-names: "A"
+- name: "et al."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Smith"
+    given-names: "DRM"
+    orcid: "https://orcid.org/0000-0002-7330-4262"
+  doi: "10.1136/oemed-2022-108451"
+  journal: "Occupational and Environmental Medicine"
+  month: 3
+  # start: 1 # First page number
+  # end: 10 # Last page number
+  title: "Sick leave due to COVID-19 during the first pandemic wave in France, 2020"
+  # issue: 1
+  volume: "Published Online First: 13 March 2023"
+  year: 2023

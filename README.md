@@ -26,10 +26,8 @@ Smith DRM<sup>1,2,3</sup>, Jijón S<sup>1,4,</sup>*, Oodally A<sup>1,2,3,</sup>*
 
 Corresponding author: Smith DRM (david.smith@pasteur.fr)
 
-<!-- 
-## Preprint
-Preprint available at: <a href="" target="_blank"> doi: </a> 
--->
+## Publication
+Smith DRM, Jijón S, Oodally A, et al. Sick leave due to COVID-19 during the first pandemic wave in France, 2020. <em>Occupational and Environmental Medicine</em>. Published Online First: 13 March 2023. doi: <a href="https://oem.bmj.com/content/early/2023/03/13/oemed-2022-108451" target="_blank"> 10.1136/oemed-2022-108451</a>
 
 ## Main contents
 ````
